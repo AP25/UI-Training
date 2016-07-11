@@ -1,0 +1,235 @@
+.wholeSection{
+	height : 100%;
+	width : 100%;
+	position: static;
+}
+
+
+.headerheight{
+	height : 18%;
+	width: 100%;
+}
+
+.middleSection{
+	height :  64%;
+	width : 99%;
+	position: absolute;
+}
+
+.footerSection{
+	height : 10%;
+	background-color: #2e3647;
+	
+   
+}
+
+.rightFloat {
+    float: right;
+}
+
+.leftFloat{
+	float : left;
+}
+
+.marginRight{
+	margin-right : 25px;
+
+}
+
+.headerStyle{
+	background-color: #2e3647
+}
+
+.headerText{
+	color: white;
+	margin-top: 11px
+}
+
+.headerImage{
+	 border-radius: 36px;
+	 margin-top: 3px
+}
+
+.sectionColor{
+	background-color: #16a5f7
+}
+
+.listIcon{
+	padding: 10px;
+}
+
+.searchBox{
+    border-radius: 13px;
+    width: 30%;
+    margin-right: 14px;
+    padding: 4px;
+    margin-bottom: 9px
+}
+
+.headerSection{
+	float: right;
+    height: 43px;
+}
+
+.textColorOfOtherHeader{
+	color: #6c768c;
+	margin-top: 11px
+}
+
+.textColorOfList{
+	color: #79829c;
+}
+
+.marginLeft{
+	margin-left : 25px;
+}
+
+
+.marginTop{
+	margin-top: 15px;
+}
+
+
+.buttonStyle{
+	padding : 9px;
+	margin-left: 22px;
+    width: 75%;
+    border-radius: 7px;
+    background-color: #f07b5b;
+    border-color: #f07b5b
+}
+
+.FontSize{
+	font-size: 40px
+}
+
+.removeBullets{
+	list-style-type: none;
+}
+
+.colorForFirstListEle{
+	 color: #d94c61;
+}
+
+.colorForSecondListEle{
+	color : #fca903;
+}
+
+.colorForThirdListEle{
+	color : #00c2db;
+}
+
+.colorForForthListEle{
+	color : #51558a
+}
+
+.leftwidth{
+	width :  15%;
+	float : left
+}
+
+.rightWidth{
+	width : 85%;
+	float : left;
+}
+
+.clear{
+	clear: both;
+	margin : 0;
+}
+
+.marginForImage{
+	margin-left : 18px;
+}
+
+.displayInline{
+	display :  inline-block;
+
+}
+
+.imgMargin{
+  margin-left: 35px;
+   margin-top: 17px;
+}
+
+.navColor{
+	background-color: #edf1f7
+}
+
+.figCaptionMarginLeft{
+	margin-left: 43px
+}
+
+
+.fontSize{
+	font-size:small
+}
+
+.marginTopImage{
+	margin-top: 20px;
+}
+
+.displayInlineImg{
+	display : inline
+}
+
+.asideColor{
+	background-color: #1d2636;
+}
+
+
+.partBorderColor{
+	border-bottom: 4px solid #181f2b;
+	border-top: 4px solid #181f2b;
+	margin-top: 26px
+}
+
+.partBottomColor{
+	border-bottom: 4px solid #181f2b;
+}
+
+.asideNote{
+	    margin-left: 17px;
+    margin-top: 35px
+}
+
+.asideTiming{
+	margin-top: 12px;
+}
+
+.asideWidth{
+	width : 100%;
+}
+
+
+.sectionBorder{
+	   border-bottom: 2px solid #dae0e8;
+}
+
+
+.marginForLi{
+	margin-top: 21px
+}
+
+.marginForLiFrmBottom{
+	margin-bottom: 21px;
+}
+
+.navFontColor{
+	color: #8b98b0;
+}
+
+
+.firstNavBold{
+	 background: #97b4cc;
+     border-radius: 11px;
+         padding: 2px
+}
+
+.firstNavColor{
+	color : white;
+}
+
+.spanMargin{
+	margin-left: 10px;
+}
